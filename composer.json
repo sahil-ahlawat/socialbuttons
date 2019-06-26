@@ -1,7 +1,7 @@
 {
     "name": "sahil-ahlawat/social-buttons",
     "type": "library",
-    "description": "Your package will give options to create social buttons in and as gutenberg block.",
+    "description": "This is Initial Commit. Don't use this package yet. Your package will give options to create social buttons in and as gutenberg block.",
     "keywords": ["wordpress social buttons","social buttons","socail buttons block"],
     "homepage": "https://13facts.info",
     "license": "MIT",
