@@ -1,0 +1,16 @@
+{
+    "name": "opensource/social-buttons",
+    "type": "library",
+    "description": "Your package will give options to create social buttons in and as gutenberg block.",
+    "keywords": ["wordpress social buttons","social buttons","socail buttons block"],
+    "homepage": "#",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sahil Ahlawat",
+            "email": "sahilahlawat2@gmail.com",
+            "homepage": "#",
+            "role": "Developer"
+        }
+    ],
+}
