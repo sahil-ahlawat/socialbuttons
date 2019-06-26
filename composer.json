@@ -3,13 +3,13 @@
     "type": "library",
     "description": "Your package will give options to create social buttons in and as gutenberg block.",
     "keywords": ["wordpress social buttons","social buttons","socail buttons block"],
-    "homepage": "#",
+    "homepage": "https://13facts.info",
     "license": "MIT",
     "authors": [
         {
             "name": "Sahil Ahlawat",
             "email": "sahilahlawat2@gmail.com",
-            "homepage": "#",
+            "homepage": "https://13facts.info/sahil-ahlawat",
             "role": "Developer"
         }
     ]
